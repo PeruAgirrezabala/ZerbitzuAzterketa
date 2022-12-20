@@ -1,0 +1,2 @@
+ip config
+"netstat -an" (sin las comillas)
